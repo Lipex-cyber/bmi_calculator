@@ -66,7 +66,7 @@ lib/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/bmi_calculator.git
+   git clone https://github.com/Lipex-cyber/bmi_calculator.git
    cd bmi_calculator
    ```
 
