@@ -105,4 +105,5 @@ A aplicação trata os seguintes casos:
 
 ## 👨‍💻 Autor
 
-Desenvolvido como atividade acadêtica de Flutter — Cálculo de IMC com Stateful Widget.
+Desenvolvido como atividade acadêmica de Flutter — Cálculo de IMC com Stateful Widget.
+Disciplina DESENVOLVIMENTO DE SISTEMAS MÓVEIS.
